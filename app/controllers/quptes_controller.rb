@@ -1,0 +1,2 @@
+class QuptesController < ApplicationController
+end
